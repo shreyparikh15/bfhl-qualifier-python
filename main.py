@@ -1,7 +1,7 @@
 import requests
 
 def main():
-    # Step 1: Send details to get webhook URL and access token
+    
     generate_webhook_url = "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/PYTHON"
 
     payload = {
